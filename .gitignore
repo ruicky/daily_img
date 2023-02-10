@@ -1,0 +1,16 @@
+#vscode
+.vscode/
+
+#pyvenv
+venv/
+
+#pycache
+__pycache__
+
+#test
+test/
+
+# Mac
+.DS_Store
+
+.idea
